@@ -17,7 +17,7 @@ def classification_evaluation(x_test, y_test, model):
     y_pred = model.predict(x_test)
     print(classification_report(y_test, y_pred))
     cm = confusion_matrix(y_test, y_pred)
-    ConfusionMatrixDisplay(cm).plot()
+    ConfusionMatrixDisplay(cm, display_labels=['absent', 'present']).plot()
 
 def user_input(ap_hi, ap_lo, cholesterol, gluc, smoke, alco, active, age, bmi, gender):
     data = {
