@@ -11,6 +11,8 @@ plotly-express = "*"
 seaborn = "*"
 nbformat = "*"
 scikit-learn = "*"
+joblib = "*"
+jinja2 = "*"
 
 [dev-packages]
 ipykernel = "*"
