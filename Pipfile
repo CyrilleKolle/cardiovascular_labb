@@ -13,6 +13,8 @@ nbformat = "*"
 scikit-learn = "*"
 joblib = "*"
 jinja2 = "*"
+flask = "*"
+flask-cors = "*"
 
 [dev-packages]
 ipykernel = "*"

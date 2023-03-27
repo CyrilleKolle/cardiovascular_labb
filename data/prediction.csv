@@ -1,101 +1,101 @@
-prediction,predicted_result,actual_result
-Id: 94269,probability class 0,positive 1
-Id: 25632,probability class 1,positive 1
-Id: 049,probability class 1,negative 0
-Id: 13397,probability class 1,negative 0
-Id: 58693,probability class 0,positive 1
-Id: 33986,probability class 1,positive 1
-Id: 61337,probability class 1,positive 1
-Id: 41995,probability class 1,negative 0
-Id: 41115,probability class 1,positive 1
-Id: 16359,probability class 1,positive 1
-Id: 68449,probability class 1,negative 0
-Id: 17545,probability class 1,positive 1
-Id: 64152,probability class 0,positive 1
-Id: 73087,probability class 1,positive 1
-Id: 45540,probability class 0,negative 0
-Id: 20490,probability class 1,positive 1
-Id: 54997,probability class 1,negative 0
-Id: 47687,probability class 1,positive 1
-Id: 15436,probability class 1,positive 1
-Id: 59694,probability class 0,negative 0
-Id: 56976,probability class 1,negative 0
-Id: 11134,probability class 1,negative 0
-Id: 29766,probability class 1,negative 0
-Id: 35361,probability class 0,negative 0
-Id: 53352,probability class 0,positive 1
-Id: 81590,probability class 0,negative 0
-Id: 58160,probability class 0,positive 1
-Id: 54054,probability class 1,negative 0
-Id: 76986,probability class 0,positive 1
-Id: 39939,probability class 0,positive 1
-Id: 74805,probability class 0,negative 0
-Id: 58442,probability class 1,positive 1
-Id: 81220,probability class 0,negative 0
-Id: 10657,probability class 1,negative 0
-Id: 11667,probability class 1,positive 1
-Id: 81999,probability class 0,positive 1
-Id: 38424,probability class 1,positive 1
-Id: 31711,probability class 1,positive 1
-Id: 30576,probability class 0,positive 1
-Id: 62903,probability class 1,positive 1
-Id: 45387,probability class 1,positive 1
-Id: 55547,probability class 1,positive 1
-Id: 94630,probability class 0,negative 0
-Id: 55050,probability class 1,positive 1
-Id: 78043,probability class 0,negative 0
-Id: 42237,probability class 0,negative 0
-Id: 64583,probability class 0,negative 0
-Id: 76604,probability class 1,positive 1
-Id: 55069,probability class 0,negative 0
-Id: 77035,probability class 0,positive 1
-Id: 5055,probability class 1,positive 1
-Id: 95320,probability class 0,negative 0
-Id: 47578,probability class 1,positive 1
-Id: 27520,probability class 1,negative 0
-Id: 13287,probability class 1,negative 0
-Id: 59655,probability class 0,positive 1
-Id: 88198,probability class 0,positive 1
-Id: 79095,probability class 0,negative 0
-Id: 45359,probability class 1,negative 0
-Id: 92491,probability class 1,negative 0
-Id: 46429,probability class 1,negative 0
-Id: 47760,probability class 0,positive 1
-Id: 49172,probability class 1,negative 0
-Id: 91949,probability class 0,negative 0
-Id: 18137,probability class 0,negative 0
-Id: 94882,probability class 0,negative 0
-Id: 15031,probability class 1,positive 1
-Id: 65690,probability class 0,positive 1
-Id: 50938,probability class 1,positive 1
-Id: 27642,probability class 0,negative 0
-Id: 37223,probability class 0,negative 0
-Id: 59785,probability class 1,negative 0
-Id: 35333,probability class 1,positive 1
-Id: 6583,probability class 1,negative 0
-Id: 56525,probability class 1,negative 0
-Id: 95011,probability class 0,negative 0
-Id: 30268,probability class 1,negative 0
-Id: 24141,probability class 1,negative 0
-Id: 50982,probability class 1,negative 0
-Id: 3844,probability class 1,positive 1
-Id: 1768,probability class 0,negative 0
-Id: 69616,probability class 0,positive 1
-Id: 31453,probability class 1,negative 0
-Id: 83711,probability class 0,positive 1
-Id: 43087,probability class 1,positive 1
-Id: 96744,probability class 1,positive 1
-Id: 18616,probability class 1,positive 1
-Id: 064,probability class 1,negative 0
-Id: 78472,probability class 0,negative 0
-Id: 43463,probability class 0,negative 0
-Id: 55833,probability class 1,negative 0
-Id: 71865,probability class 1,positive 1
-Id: 81286,probability class 0,positive 1
-Id: 94625,probability class 0,positive 1
-Id: 27290,probability class 1,negative 0
-Id: 64453,probability class 0,positive 1
-Id: 38683,probability class 1,positive 1
-Id: 53785,probability class 0,negative 0
-Id: 61786,probability class 0,negative 0
-Id: 10711,probability class 1,positive 1
+prediction,probability_class0,probability_class1,predicted_result
+Id: 94269,0.5555350394904961,0.44446496050950396,probability class 0
+Id: 25632,0.30519188878035963,0.6948081112196404,probability class 1
+Id: 049,0.4446443816570551,0.5553556183429449,probability class 1
+Id: 13397,0.4954804839390379,0.5045195160609621,probability class 1
+Id: 58693,0.5852713536370557,0.4147286463629442,probability class 0
+Id: 33986,0.4622958275465766,0.5377041724534234,probability class 1
+Id: 61337,0.4807164987759627,0.5192835012240373,probability class 1
+Id: 41995,0.38140597364835915,0.6185940263516408,probability class 1
+Id: 41115,0.2884004602116207,0.7115995397883793,probability class 1
+Id: 16359,0.448886543230674,0.551113456769326,probability class 1
+Id: 68449,0.4807826640067,0.5192173359933,probability class 1
+Id: 17545,0.47094291319494863,0.5290570868050514,probability class 1
+Id: 64152,0.5572250353428366,0.4427749646571634,probability class 0
+Id: 73087,0.47476388059867813,0.5252361194013219,probability class 1
+Id: 45540,0.6251255537175755,0.37487444628242456,probability class 0
+Id: 20490,0.4478547740824643,0.5521452259175357,probability class 1
+Id: 54997,0.4918842667276331,0.5081157332723669,probability class 1
+Id: 47687,0.3946506808827609,0.6053493191172391,probability class 1
+Id: 15436,0.39849483777433037,0.6015051622256696,probability class 1
+Id: 59694,0.6061109411446817,0.39388905885531833,probability class 0
+Id: 56976,0.44297966836359415,0.5570203316364059,probability class 1
+Id: 11134,0.46546987643660886,0.5345301235633911,probability class 1
+Id: 29766,0.49334066967190326,0.5066593303280967,probability class 1
+Id: 35361,0.5412363853503723,0.4587636146496277,probability class 0
+Id: 53352,0.5460189243177418,0.45398107568225815,probability class 0
+Id: 81590,0.5266310217996006,0.47336897820039936,probability class 0
+Id: 58160,0.5215266136857173,0.47847338631428266,probability class 0
+Id: 54054,0.4993933098304325,0.5006066901695675,probability class 1
+Id: 76986,0.5419105852592043,0.45808941474079573,probability class 0
+Id: 39939,0.5279047018671204,0.47209529813287965,probability class 0
+Id: 74805,0.5688111047031814,0.43118889529681853,probability class 0
+Id: 58442,0.39792872739148655,0.6020712726085135,probability class 1
+Id: 81220,0.5034449348165366,0.49655506518346343,probability class 0
+Id: 10657,0.37909444655073177,0.6209055534492682,probability class 1
+Id: 11667,0.3096446407200527,0.6903553592799473,probability class 1
+Id: 81999,0.6359709887674789,0.3640290112325211,probability class 0
+Id: 38424,0.39279372032333937,0.6072062796766606,probability class 1
+Id: 31711,0.4936124136944816,0.5063875863055184,probability class 1
+Id: 30576,0.5037613074874818,0.4962386925125182,probability class 0
+Id: 62903,0.3500817922859606,0.6499182077140394,probability class 1
+Id: 45387,0.4782019602871932,0.5217980397128068,probability class 1
+Id: 55547,0.39941724844144155,0.6005827515585584,probability class 1
+Id: 94630,0.5617572951097703,0.43824270489022965,probability class 0
+Id: 55050,0.3976449839745504,0.6023550160254496,probability class 1
+Id: 78043,0.5193505010234984,0.4806494989765016,probability class 0
+Id: 42237,0.518009802329076,0.481990197670924,probability class 0
+Id: 64583,0.5434552981180368,0.45654470188196317,probability class 0
+Id: 76604,0.4542702305028138,0.5457297694971862,probability class 1
+Id: 55069,0.5288004936383566,0.4711995063616434,probability class 0
+Id: 77035,0.5809520038433571,0.4190479961566429,probability class 0
+Id: 5055,0.4694455294934159,0.5305544705065841,probability class 1
+Id: 95320,0.5705110480993425,0.42948895190065756,probability class 0
+Id: 47578,0.27390598174263325,0.7260940182573667,probability class 1
+Id: 27520,0.49519577298354156,0.5048042270164584,probability class 1
+Id: 13287,0.43644779147855184,0.5635522085214482,probability class 1
+Id: 59655,0.5057465445623661,0.4942534554376339,probability class 0
+Id: 88198,0.5106049321525494,0.4893950678474506,probability class 0
+Id: 79095,0.5754774011188336,0.4245225988811664,probability class 0
+Id: 45359,0.3892616942016007,0.6107383057983993,probability class 1
+Id: 92491,0.480652391795244,0.519347608204756,probability class 1
+Id: 46429,0.459252375996142,0.540747624003858,probability class 1
+Id: 47760,0.5498316095185893,0.45016839048141066,probability class 0
+Id: 49172,0.48397545635556605,0.516024543644434,probability class 1
+Id: 91949,0.572712721490071,0.427287278509929,probability class 0
+Id: 18137,0.5278144181920285,0.47218558180797154,probability class 0
+Id: 94882,0.5567406426007352,0.4432593573992648,probability class 0
+Id: 15031,0.2528476170529579,0.7471523829470421,probability class 1
+Id: 65690,0.595021657341483,0.404978342658517,probability class 0
+Id: 50938,0.39329838739908496,0.606701612600915,probability class 1
+Id: 27642,0.5288296406073589,0.4711703593926411,probability class 0
+Id: 37223,0.5038211227817944,0.4961788772182056,probability class 0
+Id: 59785,0.44071648645160966,0.5592835135483903,probability class 1
+Id: 35333,0.43196250147561355,0.5680374985243865,probability class 1
+Id: 6583,0.28852501288490273,0.7114749871150973,probability class 1
+Id: 56525,0.4935177122158233,0.5064822877841767,probability class 1
+Id: 95011,0.6879762095318095,0.3120237904681905,probability class 0
+Id: 30268,0.45079894164387824,0.5492010583561218,probability class 1
+Id: 24141,0.4801142151926284,0.5198857848073716,probability class 1
+Id: 50982,0.4504508411252016,0.5495491588747984,probability class 1
+Id: 3844,0.44190933511306285,0.5580906648869371,probability class 1
+Id: 1768,0.5137929912127945,0.4862070087872055,probability class 0
+Id: 69616,0.5668065615137508,0.4331934384862492,probability class 0
+Id: 31453,0.48650923237047095,0.513490767629529,probability class 1
+Id: 83711,0.5631370639839939,0.43686293601600606,probability class 0
+Id: 43087,0.34901387163437114,0.6509861283656289,probability class 1
+Id: 96744,0.4012151953172156,0.5987848046827844,probability class 1
+Id: 18616,0.3251209713576805,0.6748790286423195,probability class 1
+Id: 064,0.3700920637020202,0.6299079362979798,probability class 1
+Id: 78472,0.5277133528046802,0.47228664719531976,probability class 0
+Id: 43463,0.5061105638913571,0.4938894361086429,probability class 0
+Id: 55833,0.4604146248183153,0.5395853751816847,probability class 1
+Id: 71865,0.4568714357837341,0.5431285642162659,probability class 1
+Id: 81286,0.5611430428801761,0.43885695711982387,probability class 0
+Id: 94625,0.5505437901145313,0.44945620988546875,probability class 0
+Id: 27290,0.3791971755162057,0.6208028244837943,probability class 1
+Id: 64453,0.5382941415090208,0.46170585849097917,probability class 0
+Id: 38683,0.49028829760312753,0.5097117023968725,probability class 1
+Id: 53785,0.5552975677862078,0.4447024322137922,probability class 0
+Id: 61786,0.5393376896782505,0.4606623103217495,probability class 0
+Id: 10711,0.23418425178794355,0.7658157482120564,probability class 1
