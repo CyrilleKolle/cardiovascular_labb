@@ -99,9 +99,9 @@ def predict():
     
     if result == 0:
         conclusion = 'The algorithm suggests you MAY NOT have any cardiovascular disease'
-        warning = 'If you believe you could be sick, please contact the doctor!'
+        warning = 'If you believe you could be sick, please contact the specialist!'
     elif result == 1:
-        conclusion = 'The algorithm suggests you MAY have cardiovascular disease'
+        conclusion = 'The algorithm suggests you MAY have a cardiovascular disease'
         warning = 'This is a machine learning algoritm. The diagnosis are not done by a licensed prefessional and could well be wrong!'
     return jsonify((conclusion, warning))
 
